@@ -1,0 +1,42 @@
+[21-Nov-2021 02:31:42 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to WPGraphQL\Server\ValidationRules\QueryDepth::setMaxQueryDepth() must be of the type int, string given, called in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php on line 34 and defined in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php:140
+Stack trace:
+#0 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php(34): WPGraphQL\Server\ValidationRules\QueryDepth->setMaxQueryDepth('')
+#1 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Request.php(191): WPGraphQL\Server\ValidationRules\QueryDepth->__construct()
+#2 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Request.php(157): WPGraphQL\Request->get_validation_rules()
+#3 /Users/phongnguyen/Local Sites/vnsharetech/app/public in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php on line 140
+[21-Nov-2021 02:31:48 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to WPGraphQL\Server\ValidationRules\QueryDepth::setMaxQueryDepth() must be of the type int, string given, called in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php on line 34 and defined in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php:140
+Stack trace:
+#0 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php(34): WPGraphQL\Server\ValidationRules\QueryDepth->setMaxQueryDepth('')
+#1 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Request.php(191): WPGraphQL\Server\ValidationRules\QueryDepth->__construct()
+#2 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Request.php(157): WPGraphQL\Request->get_validation_rules()
+#3 /Users/phongnguyen/Local Sites/vnsharetech/app/public in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php on line 140
+[21-Nov-2021 02:32:15 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to WPGraphQL\Server\ValidationRules\QueryDepth::setMaxQueryDepth() must be of the type int, string given, called in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php on line 34 and defined in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php:140
+Stack trace:
+#0 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php(34): WPGraphQL\Server\ValidationRules\QueryDepth->setMaxQueryDepth('')
+#1 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Request.php(191): WPGraphQL\Server\ValidationRules\QueryDepth->__construct()
+#2 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Request.php(157): WPGraphQL\Request->get_validation_rules()
+#3 /Users/phongnguyen/Local Sites/vnsharetech/app/public in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php on line 140
+[21-Nov-2021 02:32:23 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to WPGraphQL\Server\ValidationRules\QueryDepth::setMaxQueryDepth() must be of the type int, string given, called in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php on line 34 and defined in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php:140
+Stack trace:
+#0 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php(34): WPGraphQL\Server\ValidationRules\QueryDepth->setMaxQueryDepth('')
+#1 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Request.php(191): WPGraphQL\Server\ValidationRules\QueryDepth->__construct()
+#2 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Request.php(157): WPGraphQL\Request->get_validation_rules()
+#3 /Users/phongnguyen/Local Sites/vnsharetech/app/public in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php on line 140
+[21-Nov-2021 02:32:37 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to WPGraphQL\Server\ValidationRules\QueryDepth::setMaxQueryDepth() must be of the type int, string given, called in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php on line 34 and defined in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php:140
+Stack trace:
+#0 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php(34): WPGraphQL\Server\ValidationRules\QueryDepth->setMaxQueryDepth('')
+#1 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Request.php(191): WPGraphQL\Server\ValidationRules\QueryDepth->__construct()
+#2 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Request.php(157): WPGraphQL\Request->get_validation_rules()
+#3 /Users/phongnguyen/Local Sites/vnsharetech/app/public in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php on line 140
+[21-Nov-2021 02:33:11 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to WPGraphQL\Server\ValidationRules\QueryDepth::setMaxQueryDepth() must be of the type int, string given, called in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php on line 34 and defined in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php:140
+Stack trace:
+#0 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php(34): WPGraphQL\Server\ValidationRules\QueryDepth->setMaxQueryDepth('')
+#1 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Request.php(191): WPGraphQL\Server\ValidationRules\QueryDepth->__construct()
+#2 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Request.php(157): WPGraphQL\Request->get_validation_rules()
+#3 /Users/phongnguyen/Local Sites/vnsharetech/app/public in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php on line 140
+[21-Nov-2021 02:33:17 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to WPGraphQL\Server\ValidationRules\QueryDepth::setMaxQueryDepth() must be of the type int, string given, called in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php on line 34 and defined in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php:140
+Stack trace:
+#0 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php(34): WPGraphQL\Server\ValidationRules\QueryDepth->setMaxQueryDepth('')
+#1 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Request.php(191): WPGraphQL\Server\ValidationRules\QueryDepth->__construct()
+#2 /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Request.php(157): WPGraphQL\Request->get_validation_rules()
+#3 /Users/phongnguyen/Local Sites/vnsharetech/app/public in /Users/phongnguyen/Local Sites/vnsharetech/app/public/wp-content/plugins/wp-graphql/src/Server/ValidationRules/QueryDepth.php on line 140

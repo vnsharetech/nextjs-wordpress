@@ -16,6 +16,7 @@ const BlogDetail = () => {
       });
     }
   }, [setPost, id]);
+
   return (
     <div>
       <Head>
