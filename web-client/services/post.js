@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://vnsharetech.local/graphql";
+const API_URL = "https://demonextjs.sitedistrict.com/graphql";
 
 const getPosts = async () => {
   return await axios.post(
